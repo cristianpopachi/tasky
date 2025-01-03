@@ -4,8 +4,6 @@ import (
 	"net/http"
 	"os"
 	"time"
-    "strings"
-
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
 )
